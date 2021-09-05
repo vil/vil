@@ -6,8 +6,6 @@
  ### Current Projects: 
  <details>
  <summary>Projects</summary>
- 
- ![BleachHack VpEdition](https://github.com/HerraVp/BleachHack-VpEdition) <- Pro gamer client for Minecraft version 1.16.5 and 1.17.1.
                                                                              
  <a href="https://smallbrain.club/Invisibility">Invisibility</a> <- Discord Bot able to do anything.                                                                     
  

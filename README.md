@@ -1,15 +1,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/HerraVp?style=social)
 ![Visitors](https://page-views.glitch.me/badge?page_id=HerraVp.visitor-badge.issue.1)
- 
- 
- ### Current Projects: 
- <details>
- <summary>Projects</summary>
-                                                                             
- <a href="https://smallbrain.club/Invisibility">Invisibility</a> <- Discord Bot able to do anything.                                                                     
- 
- </details>                                                                           
+
 
  ### Stats:
  

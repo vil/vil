@@ -24,7 +24,7 @@
 
 <p align="left">
 
-<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/> My Discord: Vp#0001
+<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/> Via Discord `Vp#0001`
 
 </p>
 

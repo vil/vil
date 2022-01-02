@@ -5,12 +5,9 @@
 
  ### Stats:
  
-<details>
- <summary>Git stats</summary>
 <br>
     <img align="center" alt="Vp's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=HerraVp&show_icons=true&hide_border=true&include_all_commits=true&theme=dark"/>
 <br/>
-
 
 <br>
 

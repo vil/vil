@@ -5,6 +5,8 @@
 
  ### Stats:
  
+<details>
+ <summary>Click here</summary>
 <br>
     <img align="center" alt="Vp's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=HerraVp&show_icons=true&hide_border=true&include_all_commits=true&theme=dark"/>
 <br/>
@@ -14,7 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herravp&langs_count=12&&hide_border=true&theme=dark)](https://github.com/herravp/github-readme-stats)
 
 <br/>
- 
 </details>
  
 ### Contact: 

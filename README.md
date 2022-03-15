@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/HerraVp/HerraVp.github.io/blob/main/assets/img/icon.png?raw=true" />
+ <img width="150px" src="https://github.com/HerraVp/HerraVp.github.io/blob/main/assets/img/icon.png?raw=true" />
 </div>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <div align="center">
- <img width="150px" src="https://github.com/HerraVp/HerraVp.github.io/blob/main/assets/img/icon.png?raw=true" />
+ <img width="110px" src="https://github.com/HerraVp/HerraVp.github.io/blob/main/assets/img/icon.png?raw=true" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
  
  <p>Via Discord</p>
  
- <img align="center" alt="Discord" width="52px" src="https://github.com/HerraVp/HerraVp/blob/main/discord.png?raw=true" title="Vp#0001"/>
+ <img align="center" alt="Discord" width="42px" src="https://github.com/HerraVp/HerraVp/blob/main/discord.png?raw=true" title="Vp#0001"/>
  <br></br>
  <p>Vp#0001</p>
  

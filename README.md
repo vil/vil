@@ -9,6 +9,13 @@
 </div>
 
 <br></br>
+<div align="center">
+ 
+[![Vp's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerraVp&count_private=true&show_icons=true&theme=onedark)](https://github.com/herravp/github-readme-stats)
+</div>
+
+
+<br></br>
 
 <div align="center">
  <h1>Contact</h1>

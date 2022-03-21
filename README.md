@@ -37,7 +37,7 @@
  
  <br></br>
  
- <img align="center" width="52px" src="https://img.icons8.com/cotton/344/globe--v1.png" />
+ <img align="center" width="52px" src="https://img.icons8.com/cotton/344/globe--v1.png" title="vp-dev.eu"/>
  <br></br>
  <a href="https://vp-dev.eu" style="text-decoration:none;" target="_blank"><p>My personal website</p></a>
 </div> 

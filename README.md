@@ -1,6 +1,4 @@
-<div align="center">
- <img width="110px" src="https://github.com/HerraVp/HerraVp.github.io/blob/main/assets/img/icon.png?raw=true" />
-</div>
+<h1>Vp</h1>
 
 <div align="center">
  <img align="center" src=https://wakatime.com/badge/user/955593e3-2634-4ae3-95a1-d0192485ed24.svg alt="wakatime stats"/>
@@ -24,11 +22,13 @@
 
 <br></br>
 
-<div align="center">
+<div align="left">
  <h1>Contact</h1>
+</div>
  
- <br></br>
+<br></br>
  
+<div align="center">
  <p>Via Discord</p>
  
  <img align="center" alt="Discord" width="42px" src="https://github.com/HerraVp/HerraVp/blob/main/discord.png?raw=true" title="Vp#0001"/>
@@ -40,4 +40,4 @@
  <img align="center" width="52px" src="https://img.icons8.com/cotton/344/globe--v1.png" title="vp-dev.eu"/>
  <br></br>
  <a href="https://vp-dev.eu" style="text-decoration:none;" target="_blank"><p>My personal website</p></a>
-</div> 
+ </div>

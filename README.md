@@ -12,9 +12,9 @@
  <details>
   <summary>Click here</summary>
   
-  [![Vp's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerraVp&count_private=true&show_icons=true&theme=onedark)](https://github.com/herravp/github-readme-stats)
+  [![Vp's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerraVp&count_private=true&show_icons=true&theme=nightowl)](https://github.com/herravp/github-readme-stats)
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herravp&langs_count=8&layout=compact&theme=onedark)](https://github.com/herravp/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herravp&langs_count=8&layout=compact&theme=nightowl)](https://github.com/herravp/github-readme-stats) 
   
  </section>
 </div>

@@ -10,37 +10,23 @@
 </div>
 
 <br></br>
+
 <div align="center">
- 
- <details>
-  <summary>Stats ✔️</summary>
-  
-  [![Vp's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerraVp&count_private=true&show_icons=true&theme=nightowl)](https://github.com/herravp/github-readme-stats)
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herravp&langs_count=8&layout=compact&theme=nightowl)](https://github.com/herravp/github-readme-stats) 
-  
- </section>
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerraVp&langs_count=5&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HerraVp&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
 </div>
 
-
-<br></br>
-
-<div align="left">
- <h1>Contact</h1>
-</div>
- 
-<br></br>
+# Contact
  
 <div align="center">
- <p>Via Discord</p>
- 
- <img align="center" alt="Discord" width="42px" src="https://github.com/HerraVp/HerraVp/blob/main/discord.png?raw=true" title="Vp#0001"/>
- <br></br>
- <p>Vp#0001</p>
- 
- <br></br>
- 
- <img align="center" width="52px" src="https://img.icons8.com/cotton/344/globe--v1.png" title="vp-dev.eu"/>
- <br></br>
- <a href="https://vp-dev.eu" style="text-decoration:none;" target="_blank"><p>My personal website</p></a>
- </div>
+  <div style="display: flex;">
+    <img width="50px" title="Vp#0001" src="https://github.com/HerraVp/HerraVp/blob/main/discord.png?raw=true" style="vertical-align: top;" />
+    <p>Vp#0001</p>
+  </div>
+</div>
+
+<div align="center">
+ <a href="https://vp-dev.eu" target="_blank"><p>My personal website</p></a>
+</div>

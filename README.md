@@ -1,5 +1,8 @@
-<h1>Vp</h1>
+# Vp
 
+<div align="center">
+ <img width="190px" src="https://github.com/HerraVp/HerraVp/blob/main/vP.gif?raw=true">
+</div>
 <div align="center">
  <img align="center" src=https://wakatime.com/badge/user/955593e3-2634-4ae3-95a1-d0192485ed24.svg alt="wakatime stats"/>
  <img align="center" src=https://img.shields.io/github/followers/HerraVp?style=social alt="Followers"/>
@@ -10,7 +13,7 @@
 <div align="center">
  
  <details>
-  <summary>Click here</summary>
+  <summary>Stats ✔️</summary>
   
   [![Vp's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerraVp&count_private=true&show_icons=true&theme=nightowl)](https://github.com/herravp/github-readme-stats)
  

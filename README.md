@@ -1,5 +1,3 @@
-# Vp
-
 <div align="center">
  <img width="190px" src="https://github.com/HerraVp/HerraVp/blob/main/vP.gif?raw=true">
 </div>

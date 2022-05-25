@@ -11,4 +11,4 @@
  
 🔷 Discord => Vp#0001
 
-🌐 Website => [click me](https://vp-dev.eu)
+🌐 [Visit my website!](https://vp-dev.eu)

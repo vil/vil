@@ -9,6 +9,6 @@
 
 ## Contact
 
-🔷 Discord => Vp#0001
+🔷 Via Discord - Vp#0001
 
-🌐 [Visit my website!](https://vp-dev.eu)
+🌐 [Via my website](https://vp-dev.eu)

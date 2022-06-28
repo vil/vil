@@ -11,4 +11,4 @@
 
 🔷 Via Discord: Vp#0001
 
-🌐 Via my website: [vp-dev.eu](https://vp-dev.eu)
+🌐 Via Email: [vp@vp-dev.eu](mailto:vp@vp-dev.eu)

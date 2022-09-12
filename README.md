@@ -9,6 +9,8 @@
 
 <details>
  <summary>contact</summary>
- <br>~Discord : Vp#0001</br>
- <br>~Email : vp@vp-dev.eu</br>
+ 
+ >Discord: Vp#0001
+ 
+ >Email: vp@vp-dev.eu
 </details> 

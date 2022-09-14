@@ -10,7 +10,7 @@
 <details>
  <summary>contact</summary>
  
- >Discord: Vp#0001
+ >Discord: `Vp#0001`
  
- >Email: vp@vp-dev.eu
+ >Email: `vp@vp-dev.eu`
 </details> 

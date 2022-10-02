@@ -12,5 +12,5 @@
  
  >Discord: `Vp#0001`
  
- >Email: `vp@vp-dev.eu`
+ >Email: `me@vili.dev`
 </details> 

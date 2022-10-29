@@ -9,7 +9,7 @@
 <details>
  <summary>contact</summary>
  
- >Discord: `Vp#0001`
+ >Discord: `vili#0001`
  
  >Email: `me@vili.dev`
 

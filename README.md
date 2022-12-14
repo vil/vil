@@ -5,12 +5,7 @@
 <div align="center">
  <img align="center" src=https://wakatime.com/badge/user/955593e3-2634-4ae3-95a1-d0192485ed24.svg alt="wakatime stats"/>
 </div>
-
-<details>
- <summary>contact</summary>
- 
- >Discord: `vili#0001`
- 
- >Email: `me@vili.dev`
-
-</details> 
+<br>
+<div align="center">
+ https://vili.dev
+</div>

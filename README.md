@@ -9,5 +9,5 @@
 <div align="center">
  <strong>Huge thanks to my current/past sponsors :heart:</strong>
  <img align="right" width="75px" height="50px" src=https://media.tenor.com/arqlNu8gyJYAAAAC/cat-cat-jumping.gif/>
- <p align="left"><a href="https://github.com/Bleachdev">BleachDev</a></p>
+ <p align="left">* <a href="https://github.com/Bleachdev">BleachDev</a></p>
 </div>

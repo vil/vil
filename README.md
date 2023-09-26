@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-:key: <code style="margin-left: 10px;">BD12 BF24 6D6B 081D 6323  11CF C3AF 84AC C8F2 34A1</code>
+ <code style="margin-left: 10px;">BD12 BF24 6D6B 081D 6323 11CF C3AF 84AC C8F2 34A1</code>
 </div>
 <hr>
 <div align="center">

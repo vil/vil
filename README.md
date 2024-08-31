@@ -3,3 +3,5 @@
 
 
 Hey, I'm slowly migrating my stuff into [Codeberg](https://codeberg.org/vili), so I'll see you there!
+
+All my projects here are going to be archived.

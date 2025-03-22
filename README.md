@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vil&theme=graywhite&show_icons=true&hide_border=false&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=000000" alt="vil's GitHub Stats" />
-</div>
-<div align="center">
   <img src="https://count.getloli.com/@herravp">
 </div>
 <div align="center">
